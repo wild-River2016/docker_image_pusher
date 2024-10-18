@@ -1,6 +1,5 @@
-nginx
 #支持私库
-openjdk:8u272-jdk
+jaegertracing/all-in-one:1.62.0
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
