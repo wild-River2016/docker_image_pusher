@@ -1,5 +1,5 @@
 #支持私库
-tdengine/tdengine:3.3.3.0
+emqx/emqx:5.8.1
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
