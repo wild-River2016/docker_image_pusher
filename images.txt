@@ -1,5 +1,5 @@
 #支持私库
-container-registry.oracle.com/graalvm/jdk:23
+container-registry.oracle.com/graalvm/jdk:21
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
