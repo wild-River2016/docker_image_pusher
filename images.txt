@@ -1,5 +1,5 @@
 #支持私库
-rabbitmq:3.9.16-management
+hengyunabc/arthas:4.0.4-no-jdk
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
