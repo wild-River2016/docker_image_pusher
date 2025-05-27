@@ -1,5 +1,5 @@
 #支持私库
-mysql:8.0.42
+elasticsearch:7.17.23
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
