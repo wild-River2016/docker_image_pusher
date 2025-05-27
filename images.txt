@@ -1,5 +1,5 @@
 #支持私库
-netdata/netdata:v2.2.6
+mysql:8.0.42
 #支持指定架构
 --platform=linux/arm64 linux/amd64
 
