@@ -1,5 +1,5 @@
 #支持私库123
-tdengine/tdengine:3.3.6.6
+apache/iotdb:2.0.2-1-standalone
 #支持指定架构
 --platform=linux/amd64
 
