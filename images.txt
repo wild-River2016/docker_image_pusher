@@ -1,5 +1,5 @@
 #支持私库123
-apache/iotdb:2.0.2-1-standalone
+postgres:11-alpine
 #支持指定架构
 --platform=linux/amd64
 
