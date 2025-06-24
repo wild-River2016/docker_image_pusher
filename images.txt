@@ -1,5 +1,5 @@
 #支持私库123
-python:3.9-alpine
+portainer/agent:2.31.1-linux-amd64
 #支持指定架构1
 --platform=linux/amd64
 
