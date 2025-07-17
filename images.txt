@@ -1,5 +1,5 @@
 #支持私库123
-portainer/agent:2.31.1-linux-amd64
+gcr.io/k8s-minikube/kicbase:v0.0.47
 #支持指定架构1
 --platform=linux/amd64
 
