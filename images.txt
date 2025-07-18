@@ -1,5 +1,5 @@
 #支持私库123
-rancher/rancher:stable
+docker.io/kubernetesui/dashboard:v2.7.0
 #支持指定架构1
 --platform=linux/amd64
 
