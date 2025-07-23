@@ -1,5 +1,5 @@
 #支持私库123
-kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
 #支持指定架构1
 --platform=linux/amd64
 
