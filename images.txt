@@ -1,5 +1,5 @@
 #支持私库123
-kubernetesui/metrics-scraper:v1.0.8
+kubeedge/cloudcore:v1.21.0
 #支持指定架构1
 --platform=linux/amd64
 
