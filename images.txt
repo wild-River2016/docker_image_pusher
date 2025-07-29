@@ -1,5 +1,5 @@
 #支持私库123
-eclipse-mosquitto:1.6.15
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #支持指定架构1
 --platform=linux/amd64
 
