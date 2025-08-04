@@ -1,5 +1,5 @@
 #支持私库123
-node:18-alpine
+alpine:latest
 #支持指定架构1
 --platform=linux/amd64
 
