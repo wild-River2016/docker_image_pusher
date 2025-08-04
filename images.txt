@@ -1,5 +1,5 @@
 #支持私库123
-nginx:1.26.0
+nginx:1.27.0
 #支持指定架构1
 --platform=linux/amd64
 
