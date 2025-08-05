@@ -1,5 +1,5 @@
 #支持私库123
-alpine:latest
+registry.k8s.io/pause:3.9
 #支持指定架构1
 --platform=linux/amd64
 
