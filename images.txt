@@ -1,5 +1,5 @@
 #支持私库123
 portainer/agent:2.19.5
-#支持指定架构23
+#支持指定架构231
 --platform=linux/amd64
 
