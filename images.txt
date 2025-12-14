@@ -1,5 +1,5 @@
 #支持私库123
-bluenviron/mediamtx:1.15.5
+linuxserver/ffmpeg:latest
 #支持指定架构231
 --platform=linux/amd64
 
